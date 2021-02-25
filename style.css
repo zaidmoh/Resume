@@ -1,0 +1,25 @@
+body{
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: #d9dbde;
+}
+.column{
+    border: 2px solid red;
+    
+}
+.details{
+    font-size: 20px;
+}
+
+.details-color{
+    color: #848785;
+}
+
+.course-details{
+    color: #848785;
+    font-size: 13px;
+}
+
+.add-shadow{
+    box-shadow: 2px 2px 5px #888888;
+}
